@@ -1,23 +1,6 @@
 # AWS 2-Tier WebbApp Deployment with Terraform 
 
 This project aims to develop scalable and secure AWS resources to deploy a two-tier application, utilizing Terraform for automated provisioning. The approach adheres to best practices in Terraform coding and architectural design principles.
-## Table of Contents  
-
-1. [ Architecture](#architecture)
-2. [Features and best practices](#features-and-best-practices)
-3. [Aws resources](#aws-resources)
-4. [Modules](#modules)
-    - [VPC](#vpc)
-    - [NAT](#nat)
-    - [SG](#sg)
-    - [key](#key)
-    - [ALB](#alb)
-    - [AS](#as)
-    - [RDS](#rds)
-    - [Cloudfront](#cloudfront)
-    - [Route53](#route-53)
-    
-5. [Create terraform.tfvars file](#create-terraformtfvars-file)
 
 
 ## Architecture
